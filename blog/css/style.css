@@ -244,7 +244,11 @@ a:hover {
 }
 
 a:active {
-    color: #E18A78;
+    color: #ff0000;
+}
+
+a.active {
+    color: #ff0000
 }
 
 nav a {
